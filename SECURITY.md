@@ -2,14 +2,11 @@
 
 ## Supported Versions
 
-Any OS
+Any OS (and any variants as long as it doesn't affect base-level code.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Any | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
